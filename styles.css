@@ -36,6 +36,10 @@ nav {
     padding: 20px;
 }
 
+#home {
+    display: block; /* Home section is visible by default */
+}
+
 .contact-icons a {
     color: #fff;
     margin: 10px;
