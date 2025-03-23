@@ -10,7 +10,7 @@ body {
 }
 /* CSS */
 .contact-buttons a img {
-  background-color: black; /* Black background for buttons */
+  background-color: blue; /* Black background for buttons */
   width: 40px; /* Adjust icon size if needed */
   margin: 10px; /* Add spacing between icons */
   border: none; /* Remove any borders */
