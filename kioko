@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cyber </title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <button class="btn" onclick="showSection('home')">HOME</button>
+            <button class="btn" onclick="showSection('about')">ABOUT ME</button>
+            <button class="btn" onclick="showSection('services')">SERVICES</button>
+            <button class="btn" onclick="showSection('contact')">CONTACT ME</button>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home" class="section">
+            <h1>WELCOME TO RHYME TECH LMT ONLINE CYBER</h1>
+            <p>Welcome to RHYME TECH LMD! Your trusted hub for online solutions, tailored just for you. Whether you're looking for secure data management, digital support, or innovative cyber services, we’ve got you covered. Our commitment is to empower your online journey with expertise, efficiency, and excellence.</p>
+        </section>
+
+        <section id="about" class="section">
+            <h1>ABOUT ME</h1>
+            <p>Welcome to my digital hub! I'm Stevor Kioko, an experienced online cyber specialist and the proud founder of RHYME TECH LMT. With over two years of expertise in the ever-evolving world of online cyberspace, I am dedicated to delivering innovative solutions and exceptional services to meet your digital needs.
+
+                At RHYME TECH LMT, I’ve built a reputation for combining technical expertise with a personalized touch. My mission is to make technology accessible, secure, and efficient for everyone. Whether it’s safeguarding your data, optimizing your online presence, or providing cutting-edge digital solutions, I’m here to help you thrive in the digital realm.
+                
+                Thank you for trusting me as your cyber partner. Let’s build something remarkable together!</p>
+        </section>
+
+        <section id="services" class="section">
+            <h1>MY SERVICES INCLUDE</h1>
+            <p>Kuccps application</p>
+            <p>KRA services</p>
+            <p>NHIF and NSSF services</p>
+            <p>HELB application</p>
+            <p>Project Research</p>
+            <p>All types of designs(poters,logos,banners e.t.c)</p>
+            <p>Includes of all other online cyber services</p>
+        </section>
+        <section id="contact" class="section">
+            <h1>CONTACT ME</h1>
+            <div class="contact-icons">
+                <a href="https://facebook.com/Stevoh Kioko" target="_blank">Facebook</a>
+                <a href="https://wa.me/25494406908" target="_blank">WhatsApp</a>
+                <a href="tel:+254794406908">Call</a>
+                <a href="https://instagram.com/Stevoh Kioko" target="_blank">Instagram</a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; @RHYME TECH LMT 2025. All rights reserved.</p>
+        <button class="cta-btn">Try me you will like it!</button>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
